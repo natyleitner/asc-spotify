@@ -1,0 +1,52 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+    },
+    "followers": {
+        "href": null,
+        "total": 42764317
+    },
+    "genres": [
+        "pop",
+        "R&B",
+        "reggae",
+        "dubstep",
+        "hip hop",
+        "EDM"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+    "id": "5pKCCKE2ajJHZ9KAiaK11H",
+    "images": [
+        {
+            "height": 1000,
+            "url": "https://i.scdn.co/image/a9d655f9eb27897b6fb93fa282e64b98adce326a",
+            "width": 1000
+        },
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/a9d655f9eb27897b6fb93fa282e64b98adce326a",
+            "width": 640
+        },
+        {
+            "height": 200,
+            "url": "https://i.scdn.co/image/5c719c63353be6a2b47f61065c5c8148e86933be",
+            "width": 200
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/5c719c63353be6a2b47f61065c5c8148e86933be",
+            "width": 64
+        }
+    ],
+    "name": "Rihanna",
+    "popularity": 19,
+    "type": "artist",
+    "top_danceability_song": {
+        "album": "Good Girl Gone Bad: Reloaded",
+        "album_cover_image": "https://i.scdn.co/image/ab67616d00001e02f9f27162ab1ed45b8d7a7e98",
+        "song_title": "Don't Stop The Music",
+        "song_author": "Rihanna",
+        "danceability": 3.9
+    },
+    "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+}

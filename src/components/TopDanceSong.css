@@ -1,0 +1,48 @@
+.component {
+    margin-left: 60%;
+    height: 90%;
+    width: fit-content;
+    background-color: #1b1b1b;
+    color: white;
+    font-family: sans-serif;
+}
+
+.danceable-song-heading {
+    font-size: 13px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.horizontal-component {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.song-heading {
+    margin: 10px 10px 3px;
+    font-size: 12px;
+}
+
+.small-gray {
+    font-size: 10px;
+    color: gray;
+    margin: 0 0 0 10px;
+}
+
+.score {
+    font-size: 13px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.dance-icon {
+    height: 30px;
+    padding-left: 5px;
+}
+
+.album-image {
+    height: 50px;
+    width: 50px;
+}
+
